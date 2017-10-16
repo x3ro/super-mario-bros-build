@@ -1,0 +1,4 @@
+.DS_Store
+build/*
+orig/*.nes
+SMBDIS.ASM
